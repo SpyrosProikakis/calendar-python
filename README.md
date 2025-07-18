@@ -1,1 +1,1 @@
-The task concerns the creation of a calendar for event management (e.g. recording, deleting and updating events). There is also the possibility to navigate through the months of the calendar so that we can have an overview of the days of each month and the events that have already been recorded.
+The task concerns the creation of a calendar for event management (e.g. recording, deleting and updating events). We are able to navigate through the months of the calendar so that we can have an overview of the days of each month and the events that have already been recorded.
